@@ -71,14 +71,14 @@ SOLUTION
 
 ### At the end of the project, i will be able to;
 
-- improve coding skills within HTML & CSS & JS
+- improve coding skills within HTML & CSS & JS & REACT.js
 
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 <hr>
 <h3>Used in this project</h3>
 
-👉 HTML tags, Comments, CSS styling, JS DOM etc.
+👉 HTML tags, Comments, CSS styling, REACT.js etc.
 
 
 <hr>
