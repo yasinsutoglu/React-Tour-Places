@@ -50,7 +50,7 @@ SOLUTION
 ├── package.json
 └── yarn.lock
 ```
-
+````
 <!-- --------------------------------------- -->
 ### Purpose of Project;
 
@@ -88,7 +88,7 @@ SOLUTION
 <br><span>You should open vscode terminal and write "yarn or npm install" to make the project alive </span>
 <br><span>You can use this tutorial : </span><a href='https://www.youtube.com/watch?v=fJEbVCrEMSE'>VS Code tutorial</a>
 
-```
+
 <!-- ------------------------------------------------------------------------- -->
 <!-- ## 🚀 Usage
 
