@@ -1,0 +1,19 @@
+@import "../../scss/variables";
+
+.navbar{
+    width:100%;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: $navbarColor;
+    a{
+        color:white;
+        text-decoration: none;
+        padding:1rem;
+        font-size:2rem;
+        font-weight: bold;
+        &:hover{
+            background-color: $backColor;
+            color:$navbarColor;
+        }
+    }
+}
